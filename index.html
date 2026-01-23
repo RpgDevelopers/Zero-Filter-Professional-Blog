@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="High-end professional blog for executive-level industry insights and reports.">
     <title>IndustryInsights | Executive Professional Blog</title>
-    <link rel="icon" href="https://cdn.imgchest.com/files/6d8d3feda1de.png">
+    <link rel="icon" href="https://cdn.imgchest.com/files/9689e6d738cc.png">
     <!-- Tailwind with Typography, Forms, and Line-clamp plugins -->
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -52,6 +52,14 @@
         }
         html {
             scroll-behavior: smooth;
+        }
+        /* Disable text selection and touch callouts globally */
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+            -webkit-touch-callout: none; /* iOS Safari */
         }
         @media (min-width: 1024px) {
             ::-webkit-scrollbar {
