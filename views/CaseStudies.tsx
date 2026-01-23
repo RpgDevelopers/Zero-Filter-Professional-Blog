@@ -28,7 +28,7 @@ const CaseStudies: React.FC = () => {
 
   return (
     <div>
-        <div className="mb-12">
+        <div className="mb-8">
             <h1 className="text-3xl font-black text-slate-900 dark:text-white mb-4">Case Studies</h1>
             <p className="text-slate-500">Real-world examples of strategic innovation and operational excellence.</p>
         </div>

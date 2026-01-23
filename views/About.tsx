@@ -22,14 +22,14 @@ const About: React.FC = () => {
 
   return (
     <div className="max-w-4xl mx-auto">
-        <div className="text-center mb-16">
+        <div className="text-center mb-10">
             <h1 className="text-4xl md:text-5xl font-black text-slate-900 dark:text-white mb-6">Empowering Leaders with <span className="text-primary">Clarity</span></h1>
             <p className="text-xl text-slate-500 leading-relaxed">
                 IndustryInsights is the premier digital publication for executives, strategists, and forward-thinkers. We decode complex market signals into actionable intelligence.
             </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-12 mb-20">
+        <div className="grid md:grid-cols-2 gap-12 mb-12">
             <div>
                 <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-4">Our Mission</h3>
                 <p className="text-slate-600 dark:text-slate-400 leading-relaxed mb-6">

@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-white dark:bg-gray-900 border-t border-[#f0f2f4] dark:border-gray-800 py-12 mt-20">
+    <footer className="bg-white dark:bg-gray-900 border-t border-[#f0f2f4] dark:border-gray-800 py-12 mt-0">
       <div className="max-w-[1280px] mx-auto px-6 lg:px-10">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div className="col-span-1 md:col-span-1">
