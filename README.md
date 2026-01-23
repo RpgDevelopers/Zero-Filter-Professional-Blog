@@ -1,11 +1,21 @@
-<div align="center">
+# ZeroFilter Professional Blog
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A high-end, executive-level professional blog and insights platform featuring industry reports, strategic articles, and expert perspectives.
 
-  <h1>Built with AI Studio</h2>
+## Getting Started
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
 
-</div>
+3. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+
+## License
+
+Copyright © 2024 Jayson Dela Cruz. All rights reserved.
