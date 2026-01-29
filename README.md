@@ -3,20 +3,6 @@
 
 A high-end, executive-level professional blog and insights platform featuring industry reports, strategic articles, and expert perspectives.
 
-## Getting Started
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-3. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
-
 ## License
 
 Copyright © 2024 Jayson Dela Cruz. All rights reserved.
